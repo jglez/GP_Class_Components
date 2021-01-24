@@ -6,4 +6,4 @@ import AppClass from './AppClass';
 import App from './App';
 
 const rootElement = document.getElementById('root');
-ReactDOM.render(<App />, rootElement);
+ReactDOM.render(<App2 />, rootElement);
